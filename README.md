@@ -11,3 +11,6 @@ __Kaushik__
 __Mini Coder__
 
 [Kaushik-Rajarathinam](https://github.com/Kaushik-Rajarathinam)
+
+-LICENSE-
+This is licensed under Upolies.Co
