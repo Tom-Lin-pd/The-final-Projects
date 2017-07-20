@@ -1,4 +1,4 @@
-  import time #Standard basis of time
+import time #Standard basis of time
 import random #You know what random means :p
 import nester #custom-file
 #Annie96 is typing
