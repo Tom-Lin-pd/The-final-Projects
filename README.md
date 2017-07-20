@@ -1,2 +1,9 @@
-# The-final-Projects
-These are just normal python projects that are used for my dream company. Upolies.Co 
+# Upolies.CO-Projects
+
+This contains all the projects for the company UPOLIES.CO
+
+Want to join.
+
+Contact noreplyhackerupolies@gmail.com
+
+
