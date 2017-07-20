@@ -8,9 +8,13 @@ Contact email: upolies.co@mail.com
 
 __Kaushik__
 
-__Mini Coder__
+__Tom__
+
+__Mini Coders__
 
 [Kaushik-Rajarathinam](https://github.com/Kaushik-Rajarathinam)
+
+[Tom-Lin-pd](https://github.com/Tom-Lin-pd)
 
 -LICENSE-
 
