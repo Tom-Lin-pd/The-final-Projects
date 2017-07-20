@@ -4,7 +4,7 @@ This contains all the projects for the company UPOLIES.CO
 
 Want to join.
 
-Contact noreplyhackerupolies@gmail.com
+Contact email: upolies.co@mail.com
 
 __Kaushik__
 
